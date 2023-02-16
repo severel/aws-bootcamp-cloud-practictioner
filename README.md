@@ -13,6 +13,14 @@ The AWS Certified Cloud Practitioner offers a foundational understanding of AWS 
 Skill Builder provides 500+ free digital courses, 25+ learning plans, and 19 Ramp-Up Guides to help you expand your knowledge.
 Register for skillbuilder.aws
 
+## AWS Account - Free Tier
+
+<https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/>
+I'm getting started with AWS. How do I create and activate a new AWS account?
+
+<https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all>
+Gain free, hands-on experience with the AWS platform, products, and services
+
 ## Training materials
 
 AWS Cloud Quest: Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner>
