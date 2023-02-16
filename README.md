@@ -1,4 +1,4 @@
-# aws-bootcamp-cloud-practictioner
+# AWS Bootcamp Cloud Practitioner
 
 Resources, materials, links and information about AWS Bootcamp - Cloud Practitioner
 
