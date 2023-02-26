@@ -15,16 +15,6 @@ Register for skillbuilder.aws
 
 ## Training materials
 
-AWS Cloud Quest: Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner>
-
-AWS Cloud Practitioner Essentials - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials>
-
-AWS Well-Architected - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected>
-
-AWS Certified Cloud Practitioner Official Practice Question Set - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12483/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english>
-
-Exam Prep: AWS Certified Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-clf-c01>
-
 Cloud Essentials Learning Plan - <https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-learning-plan>
 
 ## AWS Account - Free Tier
@@ -39,10 +29,48 @@ Gain free, hands-on experience with the AWS platform, products, and services
 
 ## Week 1
 
+* Open Amazon skillbuilder.aws profile
+* Job Roles in the Cloud - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/156/job-roles-in-the-cloud>
+* AWS Cloud Practitioner Essentials - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials>
+
 ## Week 2
+
+* Getting Started with Cloud Acquisition -
+* AWS Billing and Cost Management -
+* AWS Well-Architected -
+* AWS Foundations: Getting Started with the AWS Cloud Essentials -
+
+AWS Whitepapers:
+
+* Overview of Amazon Web Services - <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html>
+* How AWS Pricing Works - <https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf#welcome>
+* Compare AWS Support Plans - <https://aws.amazon.com/premiumsupport/plans/?cp=sec&sec=prep>
 
 ## Week 3
 
+AWS Cloud Quest: Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner>
+
+* Additional training materials
+* Hands-on
+* AWS Educate
+
 ## Week 4
 
-## Exam prep
+* Exam preparation
+
+Exam Prep: AWS Certified Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-clf-c01>
+
+* AWS Certified Cloud Practitioner (CLF-C01) Sample Exam Questions
+
+<https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf>
+
+* AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - English)
+<https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english>
+
+* Exam Readiness: AWS Certified Cloud Practitioner
+
+AWS Certified Cloud Practitioner Official Practice Question Set - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12483/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english>
+
+## Closure and exam preparation tips
+
+* Exam vouchers
