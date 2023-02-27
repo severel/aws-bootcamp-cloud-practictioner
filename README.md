@@ -77,3 +77,5 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 ## Closure and exam preparation tips
 
 * Exam vouchers
+* AWS Training and Certifications account creation
+* How to schedulle exam
