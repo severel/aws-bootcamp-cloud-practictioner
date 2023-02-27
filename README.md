@@ -54,7 +54,7 @@ AWS Whitepapers:
 
 AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11172/aws-security-best-practices-overview>
 
-* Hands-on
+* Hands-on - Well Architected Workshop
 * AWS Educate
 
 ## Week 4
@@ -70,7 +70,7 @@ Exam Prep: AWS Certified Cloud Practitioner - <https://explore.skillbuilder.aws/
 * AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - English)
 <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english>
 
-* Exam Readiness: AWS Certified Cloud Practitioner
+* Exam Readiness: AWS Certified Cloud Practitioner - <https://aws.amazon.com/training/events/?get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc&awsf.get-certified-vilt-courses-type=*all&awsf.get-certified-vilt-courses-series=series%23aws-certification-exam-readiness&awsf.get-certified-vilt-audience=*all&awsf.get-certified-vilt-locations=*all&awsf.get-certified-vilt-countries=*all&awsf.get-certified-vilt-languages=*all&awsf.get-certified-vilt-courses-level=level%23100&awsf.get-certified-vilt-courses-tech-category=*all&cp=sec&sec=prep>
 
 AWS Certified Cloud Practitioner Official Practice Question Set - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12483/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english>
 
