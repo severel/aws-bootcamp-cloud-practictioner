@@ -35,10 +35,7 @@ Gain free, hands-on experience with the AWS platform, products, and services
 
 ## Week 2
 
-* Getting Started with Cloud Acquisition -
-* AWS Billing and Cost Management -
-* AWS Well-Architected -
-* AWS Foundations: Getting Started with the AWS Cloud Essentials -
+AWS Cloud Quest: Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner>
 
 AWS Whitepapers:
 
@@ -48,9 +45,15 @@ AWS Whitepapers:
 
 ## Week 3
 
-AWS Cloud Quest: Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner>
+* Getting Started with Cloud Acquisition -<https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1575/getting-started-with-cloud-acquisition>
+* AWS Billing and Cost Management - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/129/aws-billing-and-cost-management>
+* AWS Well-Architected - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected>
+* AWS Foundations: Getting Started with the AWS Cloud Essentials - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/482/aws-foundations-getting-started-with-the-aws-cloud-essentials>
 
 * Additional training materials
+
+AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11172/aws-security-best-practices-overview>
+
 * Hands-on
 * AWS Educate
 
