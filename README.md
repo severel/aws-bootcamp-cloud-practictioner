@@ -29,7 +29,7 @@ Gain free, hands-on experience with the AWS platform, products, and services
 
 ## Week 1
 
-* Open Amazon skillbuilder.aws profile
+* Open Amazon skillbuilder.aws profile - [How to create a skillbuilder profile](./how-tos/getting-started-create-skillbuilder-account-and-access-resources.md)
 * Job Roles in the Cloud - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/156/job-roles-in-the-cloud>
 * AWS Cloud Practitioner Essentials - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials>
 
