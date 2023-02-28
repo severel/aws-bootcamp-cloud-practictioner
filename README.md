@@ -11,13 +11,12 @@ The AWS Certified Cloud Practitioner offers a foundational understanding of AWS 
 ## AWS Skill Builder: Self-paced digital training on AWS
 
 Skill Builder provides 500+ free digital courses, 25+ learning plans, and 19 Ramp-Up Guides to help you expand your knowledge.
-Register for skillbuilder.aws
 
 ## Training materials
 
 Cloud Essentials Learning Plan - <https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-learning-plan>
 
-## AWS Account - Free Tier
+## (Optional) AWS Account - Free Tier
 
 <https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/>
 
