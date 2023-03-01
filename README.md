@@ -55,6 +55,7 @@ AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/
 
 * Hands-on - Well Architected Workshop
 * AWS Educate
+* Additional badges from AWS - <https://aws.amazon.com/training/badges/>
 
 ## Week 4
 
