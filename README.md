@@ -32,6 +32,8 @@ Gain free, hands-on experience with the AWS platform, products, and services
 * Job Roles in the Cloud - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/156/job-roles-in-the-cloud>
 * AWS Cloud Practitioner Essentials - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials>
 
+Feedback form week 1 - <https://forms.gle/evBiB5rMHmBpgQ4XA>
+
 ## Week 2
 
 AWS Cloud Quest: Cloud Practitioner - <https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner>
@@ -41,6 +43,8 @@ AWS Whitepapers:
 * Overview of Amazon Web Services - <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html>
 * How AWS Pricing Works - <https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf#welcome>
 * Compare AWS Support Plans - <https://aws.amazon.com/premiumsupport/plans/?cp=sec&sec=prep>
+
+Feedback form week 2 - <https://forms.gle/A6FkWaZkcwN1Ada39>
 
 ## Week 3
 
