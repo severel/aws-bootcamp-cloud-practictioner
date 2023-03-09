@@ -84,3 +84,8 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 * Kahoot for a quiz
 * AWS Training and Certifications account creation
 * How to schedulle exam
+
+## Additional AWS resources
+
+* News and announcements - <https://aws.amazon.com/new/>
+* AWS re:Invent videos - <https://awsstash.com>
