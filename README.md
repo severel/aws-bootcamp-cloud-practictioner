@@ -57,9 +57,10 @@ Feedback form week 2 - <https://forms.gle/A6FkWaZkcwN1Ada39>
 
 AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11172/aws-security-best-practices-overview>
 
-* Hands-on - Well Architected Workshop
-* AWS Educate
-* Additional badges from AWS - <https://aws.amazon.com/training/badges/>
+* How to create AWS account
+* AWS Credits
+* AWS Educate - <https://www.awseducate.com/>
+* AWS Security Workshop - <https://catalog.workshops.aws/startup-security-baseline/en-US>
 
 ## Week 4
 
@@ -91,3 +92,4 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 * AWS Blogs - <https://aws.amazon.com/blogs/>
 * AWS Workshops - <https://workshops.aws/>
 * AWS re:Invent videos - <https://awsstash.com>
+* Additional badges from AWS - <https://aws.amazon.com/training/badges/>
