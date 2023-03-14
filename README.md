@@ -89,4 +89,5 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 
 * News and announcements - <https://aws.amazon.com/new/>
 * AWS Blogs - <https://aws.amazon.com/blogs/>
+* AWS Workshops - <https://workshops.aws/>
 * AWS re:Invent videos - <https://awsstash.com>
