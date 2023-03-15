@@ -62,6 +62,8 @@ AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/
 * AWS Security Workshop - <https://catalog.workshops.aws/startup-security-baseline/en-US>
 * AWS Credits - <https://aws.amazon.com/awscredits/>
 
+Feedback form week 3 - <https://forms.gle/YXjcQJspqSzkaukTA>
+
 ## Week 4
 
 * Exam preparation
