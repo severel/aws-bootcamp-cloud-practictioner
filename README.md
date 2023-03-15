@@ -60,7 +60,7 @@ AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/
 * How to create AWS account - <https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html>
 * AWS Educate - <https://www.awseducate.com/>
 * AWS Security Workshop - <https://catalog.workshops.aws/startup-security-baseline/en-US>
-* AWS Credits
+* AWS Credits - <https://aws.amazon.com/awscredits/>
 
 ## Week 4
 
