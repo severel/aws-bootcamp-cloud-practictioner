@@ -57,7 +57,7 @@ Feedback form week 2 - <https://forms.gle/A6FkWaZkcwN1Ada39>
 
 AWS Security Best Practices: Overview - <https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11172/aws-security-best-practices-overview>
 
-* How to create AWS account
+* How to create AWS account - <https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html>
 * AWS Credits
 * AWS Educate - <https://www.awseducate.com/>
 * AWS Security Workshop - <https://catalog.workshops.aws/startup-security-baseline/en-US>
