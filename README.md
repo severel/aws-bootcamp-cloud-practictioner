@@ -84,7 +84,6 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 ## Closure and exam preparation tips
 
 * Exam vouchers
-* Kahoot for a quiz
 * AWS Training and Certifications account creation
 * How to schedulle exam
 
@@ -95,3 +94,4 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 * AWS Workshops - <https://workshops.aws/>
 * AWS re:Invent videos - <https://awsstash.com>
 * Additional badges from AWS - <https://aws.amazon.com/training/badges/>
+* AWS Bulgaria User Group YouTube: <https://www.youtube.com/@awsbulgariausergroup>
