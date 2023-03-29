@@ -95,3 +95,4 @@ AWS Certified Cloud Practitioner Official Practice Question Set - <https://explo
 * AWS re:Invent videos - <https://awsstash.com>
 * Additional badges from AWS - <https://aws.amazon.com/training/badges/>
 * AWS Bulgaria User Group YouTube: <https://www.youtube.com/@awsbulgariausergroup>
+* AWS Certified Cloud Practitioner Exam - <https://forms.gle/tsoXeSd93AGggctZ6>
